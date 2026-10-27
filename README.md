@@ -1,66 +1,52 @@
-# Portfolio
-## Ex01 : Portfolio
+# Ex01 Portfolio
 ## Date: 25-10-2026
 ## AIM
-To create a Portfolio using HTML and CSS.
+To create a Portfolio using HTML.
 
 ## ALGORITHM
-STEP 1:
+### STEP 1
+Create an HTML file named `index.html`.
 
-Create an HTML file (index.html)
+### STEP 2
+Add the portfolio title, introduction, and personal details.
 
-STEP 2:
+### STEP 3
+Include sections for areas of interest, projects, certificates, and contact details.
 
-Create a CSS file (style.css)
+### STEP 4
+Add a profile image using the HTML image tag.
 
-STEP 3:
+### STEP 5
+Use HTML tags to organize the content and layout.
 
-Include a navigation bar with links to different sections.
+### STEP 6
+Add links to projects and certificates.
 
-STEP 4:
+### STEP 7
+Open the HTML file in a web browser to check its appearance and functionality.
 
-Add structured sections for introduction, about, projects, and contact details.
+### STEP 8
+Correct errors and refine the content placement.
 
-STEP 5:
+### STEP 9
+Create a GitHub repository for the portfolio.
 
-Define global styles for fonts, colors, and layout.
+### STEP 10
+Upload `index.html`, the profile image, and certificate files to the repository.
 
-STEP 6:
+### STEP 11
+Commit and push the project files to GitHub using Git.
 
-Style the header, navigation bar, and sections.
+### STEP 12
+Open the repository settings and navigate to the Pages section.
 
-STEP 7:
+### STEP 13
+Enable GitHub Pages by selecting the `main` branch and the root folder as the deployment source.
 
-Use Flexbox or CSS Grid for layout design.
+### STEP 14
+Save the settings and open the generated GitHub Pages URL to view the published portfolio.
 
-STEP 8:
-
-Add hover effects and transitions for interactivity.
-
-STEP 9:
-
-Add Images and Media.
-
-STEP 10:
-
-Use optimized images for a professional look.
-
-STEP 11:
-
-Open the HTML file in a browser to check layout and functionality.
-
-STEP 12
-Fix styling issues and refine content placement.
-
-STEP 13:
-
-Deploy the Portfolio.
-
-STEP 14:
-
-Upload to GitHub Pages for free hosting.
-
-## PROGRAM:
+## PROGRAM
 ```
 <!DOCTYPE html>
 <html lang="en">
